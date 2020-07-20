@@ -17,7 +17,6 @@ _mjs(path, callback)
 parameters | description
 -----------|------------
 path        | Enter the url of the library (this can be a cdn or a local library)
------------|------------
 callback    | The function call that runs after the library is loaded.
 
 ### Example
